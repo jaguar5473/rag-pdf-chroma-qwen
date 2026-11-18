@@ -1,0 +1,30 @@
+# Banco vetorial gerado pelo código
+banco_chroma/
+teste_banco/
+banco_guia/
+
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Chaves e variáveis de ambiente
+.env
+*.key
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# PDFs (coloque o seu localmente)
+*.pdf
+
+# Arquivos do editor e do sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Pastas teste
+teste_chroma.py
+ 
